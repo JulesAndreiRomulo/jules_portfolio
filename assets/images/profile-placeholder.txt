@@ -1,0 +1,12 @@
+# Profile Image
+
+Place your profile photo here as `profile.jpg`
+
+Recommended specifications:
+- Format: JPG or PNG
+- Size: 800x800 pixels (square)
+- File size: Under 500KB
+- High quality, professional photo
+- Good lighting and clear background
+
+The image will be displayed as a circular profile picture in the hero section.

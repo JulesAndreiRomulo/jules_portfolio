@@ -1,0 +1,16 @@
+# Resume File
+
+Place your resume PDF here as `resume.pdf`
+
+The download and view buttons in the Resume section will link to this file.
+
+Make sure your resume includes:
+- Contact information
+- Education background
+- Work experience
+- Technical skills
+- Projects
+- Certifications
+- Achievements
+
+File should be named exactly: resume.pdf
